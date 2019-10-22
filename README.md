@@ -1,12 +1,12 @@
 # Welcome to Octobud
 
-Octobud is a toy cum teaching aid for children having Down Syndrome. It is developed by understanding various aspects of a child's behavior while playing games and learning new things.
+Octobud is a toy-cum-teaching aid for children having Down Syndrome. It is developed by understanding various aspects of a child's behavior while playing games and learning new things.
 
 Link of the product demonstration: https://drive.google.com/open?id=1CF6lK1BZQGTCAucBrRseNhan20xEP1t3
 
 Report, presentation, CAD files and design details are present in the root folder.
 
-For codes contact: rishabhbajpai2410@gmail.com
+For codes, contact: rishabhbajpai2410@gmail.com
 
 Developers contributions:
 Rishabh Bajpai: CAD design, design process, research on Down Syndrome, fabrication, hardware design (Electronics), coding of the toy.
