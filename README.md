@@ -9,9 +9,20 @@ Report, presentation, CAD files and design details are present in the root folde
 For codes, contact: rishabhbajpai2410@gmail.com
 
 Developers contributions:
+
 Rishabh Bajpai: CAD design, design process, research on Down Syndrome, fabrication, hardware design (Electronics), coding of the toy.
+
+
 Jagriti Agnihotri: App development, design process, research on Down Syndrome
+
+
 Ravati Mahajan: App development, design process, research on Down Syndrome
+
+
 Tanishqa Bobde: design process, research on Down Syndrome
+
+
 Atul Kumar: Electronics, design process, research on Down Syndrome, fabrication
+
+
 Rishabh Singh Tomar: design process, research on Down Syndrome
