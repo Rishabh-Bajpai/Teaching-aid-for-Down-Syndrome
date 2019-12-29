@@ -6,7 +6,7 @@ Link of the product demonstration: https://drive.google.com/open?id=1CF6lK1BZQGT
 
 Report, presentation, CAD files and design details are present in the root folder.
 
-For codes, contact: rishabhbajpai2410@gmail.com
+For codes, contact: rishabhbajpai2410@gmail.com, jagriti.agni@gmail.com
 
 Developers contributions:
 
