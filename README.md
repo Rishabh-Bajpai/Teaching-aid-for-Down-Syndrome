@@ -13,7 +13,7 @@ Developers contributions:
 Rishabh Bajpai: CAD design, design process, research on Down Syndrome, fabrication, hardware design (Electronics), coding of the toy.
 
 
-Jagriti Agnihotri: App development, design process, research on Down Syndrome
+Jagriti: App development, design process, research on Down Syndrome
 
 
 Ravati Mahajan: App development, design process, research on Down Syndrome
